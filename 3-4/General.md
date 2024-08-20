@@ -2,7 +2,7 @@
 
 # Checkpoints
 
-Students will complete checkpoint 0 to completetion and 1 as far as possible. Most children in this age range should already have experience in most of checkpoint 0, so it is essential to assess where each child is at to determine what activities to use. All activites will have associated checkpoint information listed in the document.
+Students will complete checkpoint 0 to completion and 1 as far as possible. Most children in this age range should already have experience in most of checkpoint 0, so it is essential to assess where each child is at to determine what activities to use. All activities will have associated checkpoint information listed in the document.
 
 
 | Concept | Checkpoint 0                                                                                                                                                        | Checkpoint 1                                                                                                                                                        |
@@ -32,7 +32,7 @@ Students will complete checkpoint 0 to completetion and 1 as far as possible. Mo
 
 ### Create
 
-Create type lessons focus on making new musical ideas while exploring a musical concept. A create type lesson might entail learning about 8th notes (ti-ti in kodaly rythm sylables) using a know rythem. Then making up a new rythem (individualy or as a class) using 8th notes. Create lessons tend to be shorter lessons and are perfect to put at the begining of a class period.
+Create-type lessons focus on making new musical ideas while exploring a musical concept. A create-type lesson might entail learning about 8th notes (ti-ti in kodaly rhythm syllables) using a known rhythm. Then making up a new rhythm (individually or as a class) using 8th notes. Create lessons tend to be shorter lessons and are perfect to put at the beginning of a class period.
 
 ### Perform
 
@@ -40,12 +40,12 @@ Perform type lessons focus on learning and performing songs.
 
 ### Respond
 
-Respond type lessons focus on tying musical concepts to a child's every-day life. A respond type lesson might entail speaking to children about what songs they listen to while doing chores at home.
+Respond-type lessons focus on tying musical concepts to a child's everyday life. A response-type lesson might entail speaking to children about what songs they listen to while doing chores at home.
 
 ### Showcase
 
-Showcase type lessons focus on showing a musical idea or concept and reflecting on said concept. A showcase type lesson might entail listening to a recording of a classical piece, then talking about how the music made the children feel.
+Showcase-type lessons focus on showing a musical idea or concept and reflecting on the said concept. A showcase-type lesson might entail listening to a recording of a classical piece and then talking about how the music made the children feel.
 
 # Example Day
 
-Any given day should feature one lesson of choice and a perform lesson. In most cases the perform section of the day will be working on a song from a music booklet or a music program. The perform section of the day should be after whatever
+Any given day should feature one lesson of choice and a perform-type lesson. In most cases, the perform-type section of the day will be working on a song from a music booklet or a music program. The day's perform-type section should be the day's ladder half.
